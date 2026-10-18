@@ -17,7 +17,7 @@ const faqs = [
   },
   {
     q: "Apakah ada menu kopi tanpa kafein atau non-kopi?",
-    a: "Saat ini fokus menu kami adalah racikan kopi. Untuk pilihan rendah kafein, kamu bisa memilih Kopi Susu Gula Aren dengan porsi espresso lebih sedikit — cukup sampaikan saat memesan.",
+    a: "Saat ini fokus menu kami adalah racikan kopi. Untuk pilihan rendah kafein, kamu bisa memilih Kopi Susu Gula Aren dengan porsi espresso lebih sedikit, cukup sampaikan saat memesan.",
   },
   {
     q: "Apakah kedai buka setiap hari termasuk hari libur?",
